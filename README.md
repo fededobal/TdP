@@ -41,8 +41,8 @@ Prácticas, parciales y finales resueltos de Taller de Programación (cursada 20
 **[RepasoProject](2024/Objetos/Repaso/RepasoProject/)** es un proyecto NetBeans con un paquete por ejercicio o examen; el programa principal de cada uno está en `FedericoDobal.java`:
 
 - [Banco](2024/Objetos/Repaso/RepasoProject/src/Banco/): cuentas (caja de ahorro y cuenta corriente) y movimientos; final de septiembre de 2024 ([enunciado](2024/Objetos/Repaso/RepasoProject/src/Banco/final%20TDP%20septiembre%202024.jpeg)).
-- [Final12_02_2025](2024/Objetos/Repaso/RepasoProject/src/Final12_02_2025/): empresa con oficinas y personas (final del 12/02/2025).
-- [SistemaMunicipalidad_Examen_06_06_2020](2024/Objetos/Repaso/RepasoProject/src/SistemaMunicipalidad_Examen_06_06_2020/): sistema con estadísticas (examen del 06/06/2020).
+- [Final del 12/02/2025](2024/Objetos/Repaso/RepasoProject/src/Final12_02_2025/): empresa con oficinas y personas.
+- [Sistema de municipalidad, examen del 06/06/2020](2024/Objetos/Repaso/RepasoProject/src/SistemaMunicipalidad_Examen_06_06_2020/): sistema con estadísticas.
 - [Subsidios_Sep2022](2024/Objetos/Repaso/RepasoProject/src/Subsidios_Sep2022/): subsidios de bienes y de estadía (septiembre de 2022).
 - [Teorico_040722](2024/Objetos/Repaso/RepasoProject/src/Teorico_040722/): ejercicio teórico del 04/07/2022.
 - [Hospital](2024/Objetos/Repaso/RepasoProject/src/Hospital/), [Librería](2024/Objetos/Repaso/RepasoProject/src/Librería/), [Sorteo](2024/Objetos/Repaso/RepasoProject/src/Sorteo/), [Tenis](2024/Objetos/Repaso/RepasoProject/src/Tenis/) y [Punto1](2024/Objetos/Repaso/RepasoProject/src/Punto1/): ejercicios de repaso.
@@ -63,10 +63,10 @@ Programas de robots en R-Info (`.rinfo`), uno por ejercicio.
 
 | Parcial | Enunciado | Resolución |
 | --- | --- | --- |
-| 18/09/2018 | [Imagen](2024/Concurrente/Parciales%20resueltos/18-09-2018.jpg) | [18-09-2018.rinfo](2024/Concurrente/Parciales%20resueltos/18-09-2018.rinfo) |
-| Turno F1, 2024 | [Imagen](2024/Concurrente/Parciales%20resueltos/TurnoFt12024.jpeg) | [TurnoFt12024.rinfo](2024/Concurrente/Parciales%20resueltos/TurnoFt12024.rinfo) |
-| Turno K, 2024 | [Imagen](2024/Concurrente/Parciales%20resueltos/turnoK2024.jpg) | [turnoK2024.rinfo](2024/Concurrente/Parciales%20resueltos/turnoK2024.rinfo) |
-| Cuadrados | [Imagen](2024/Concurrente/Parciales%20resueltos/cuadrados.jpg) | [cuadrados.rinfo](2024/Concurrente/Parciales%20resueltos/cuadrados.rinfo) |
+| 18/09/2018 | [Imagen](2024/Concurrente/Parciales%20resueltos/18-09-2018.jpg) | [R-Info](2024/Concurrente/Parciales%20resueltos/18-09-2018.rinfo) |
+| Turno F1, 2024 | [Imagen](2024/Concurrente/Parciales%20resueltos/TurnoFt12024.jpeg) | [R-Info](2024/Concurrente/Parciales%20resueltos/TurnoFt12024.rinfo) |
+| Turno K, 2024 | [Imagen](2024/Concurrente/Parciales%20resueltos/turnoK2024.jpg) | [R-Info](2024/Concurrente/Parciales%20resueltos/turnoK2024.rinfo) |
+| Cuadrados | [Imagen](2024/Concurrente/Parciales%20resueltos/cuadrados.jpg) | [R-Info](2024/Concurrente/Parciales%20resueltos/cuadrados.rinfo) |
 
 **[Finales](2024/Concurrente/Finales/):** final de diciembre de 2024 ([enunciado](2024/Concurrente/Finales/final%20diciembre%202024.jpeg) y [resolución](2024/Concurrente/Finales/final%20diciembre%202024.txt)).
 
